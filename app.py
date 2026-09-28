@@ -136,4 +136,3 @@ st.markdown("---")
 st.caption(
     "Laboratorio de IA · Demostración de Machine Learning"
 )
-```
